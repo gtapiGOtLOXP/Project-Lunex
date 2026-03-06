@@ -3,11 +3,7 @@
  **❄ cs:s usage guide ❄**
 
 ═══════════════════
-
-aesthetic minimal guide for running and verifying the tool.
-
-soft winter theme • clean structure • readable console style
-
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/9eb3962b-6b86-4db3-91f0-57c6ec0d522c" />
 
 ────────────────────────
 **❄ setup ❄**
