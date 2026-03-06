@@ -1,5 +1,7 @@
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/9eb3962b-6b86-4db3-91f0-57c6ec0d522c" />
 
+Please 🌟 if this is useful!
+
 ═══════════════════════════════════
 
 # 🔴 cs:s usage guide 🔴
