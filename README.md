@@ -1,43 +1,43 @@
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/9eb3962b-6b86-4db3-91f0-57c6ec0d522c" />
 
+═══════════════════════════════════
 
-═══════════════════
+# 🔴 cs:s usage guide 🔴
 
- **❄ cs:s usage guide ❄**
-
-═══════════════════
-
-────────────────────────
-**❄ setup ❄**
-────────────────────────
-
-1. launch counter-strike: source from steam  
-2. join any server (offline bots are fine for testing)  
-3. open the console using the ~ key  
-4. run the executable with administrator privileges  
-
-environment should now be ready.
+═══════════════════════════════════
 
 
-────────────────────────
-**❄ hotkey controls ❄**
-────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🔧 Setup
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-| key | function |
+1. Launch **Counter‑Strike: Source** from Steam  
+2. Join any server *(offline bots are fine for testing)*  
+3. Open the console using the `~` key  
+4. Run the executable with **administrator privileges**
+
+Environment should now be ready.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🎮 Hotkey Controls
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+| Key | Function |
 |-----|----------|
-| f1 | toggle enemy visualization |
-| f2 | toggle automatic firing response |
-| f3 | toggle movement assist |
-| space (hold) | manual jump with assist |
-| a / d | strafe movement |
-| esc | clean exit (closes overlay) |
+| **F1** | 🔴 Toggle enemy visualization |
+| **F2** | 🎯 Toggle automatic firing response |
+| **F3** | 🦘 Toggle movement assist |
+| **SPACE (hold)** | 🚀 Manual jump with assist |
+| **A / D** | ↔ Strafe movement |
+| **ESC** | ❌ Clean exit *(closes overlay)* |
 
 
-────────────────────────
-**❄ runtime status ❄**
-────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📡 Runtime Status
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-when running correctly, the console should show  
+When running correctly, the console should show  
 a status similar to the following:
 cs:source external tool
 f1 = esp
@@ -45,85 +45,84 @@ f2 = trigger
 f3 = bunnyhop
 esc = exit
 
-system attaches to the game process and begins  
-rendering the overlay layer.
+System attaches to the game process and begins  
+rendering the **overlay layer**.
 
 
-────────────────────────
-**❄ visual confirmation ❄**
-────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 👁 Visual Confirmation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-signs everything is working:
+Signs everything is working:
 
-✓ green overlay window appears above the game  
-✓ enemy boxes and health text become visible  
-✓ crosshair interaction triggers instant response  
-✓ movement assist increases jump momentum  
-✓ console logs enemy detection activity  
-
-
-────────────────────────
-**❄ troubleshooting ❄**
-────────────────────────
-
-failed to attach  
-→ ensure the game is running and restart the tool  
-
-no overlay visible  
-→ switch windows with alt+tab to bring overlay forward  
-
-feature not activating  
-→ toggle the key again and verify nearby entities  
-
-unexpected crashes  
-→ restart the game and tool  
+✅ Green overlay window appears above the game  
+✅ Enemy boxes and health text become visible  
+✅ Crosshair interaction triggers instant response  
+✅ Movement assist increases jump momentum  
+✅ Console logs enemy detection activity  
 
 
-────────────────────────
-**❄ operational flow ❄**
-────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🛠 Troubleshooting
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-typical usage pattern:
+**Failed to attach**  
+→ Ensure the game is running and restart the tool  
 
-1. activate enemy visualization  
-2. enable automatic engagement  
-3. activate movement assist  
-4. combine strafing with jump timing  
+**No overlay visible**  
+→ Switch windows with `Alt + Tab` to bring overlay forward  
 
-this allows high mobility and efficient gameplay  
+**Feature not activating**  
+→ Toggle the key again and verify nearby entities  
+
+**Unexpected crashes**  
+→ Restart the game and tool  
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## ⚙ Operational Flow
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Typical usage pattern:
+
+1. Activate enemy visualization  
+2. Enable automatic engagement  
+3. Activate movement assist  
+4. Combine strafing with jump timing  
+
+This allows **high mobility and efficient gameplay**  
 during active sessions.
 
 
-────────────────────────
-**❄ clean exit ❄**
-────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🧹 Clean Exit
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-to safely close the tool:
+To safely close the tool:
 
-press esc  
-confirm exit with enter  
+Press **ESC**  
+Confirm exit with **Enter**
 
-the process will terminate cleanly.
+The process will terminate cleanly.
 
-after exiting:
+After exiting:
 
-• no files are left in the game directory  
-• the game can be restarted normally  
-
-
-────────────────────────
-**❄ test sequence ❄**
-────────────────────────
-
-quick verification checklist:
-
-- [ ] overlay appears after startup  
-- [ ] enemy markers become visible  
-- [ ] crosshair response activates  
-- [ ] movement boost works  
-- [ ] clean exit completes successfully  
+• No files are left in the game directory  
+• The game can be restarted normally  
 
 
-═══════════════════════════════════
-**snow falls • happy cheating :**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🧪 Test Sequence
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quick verification checklist:
+
+- [ ] Overlay appears after startup  
+- [ ] Enemy markers become visible  
+- [ ] Crosshair response activates  
+- [ ] Movement boost works  
+- [ ] Clean exit completes successfully  
+
+═══════════════════════════════════ 
+**snow falls • happy hacking :** 
 ═══════════════════════════════════
