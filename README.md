@@ -1,5 +1,7 @@
 ════════════════════════════════════════════════════════════
-**❄ cs:s usage guide ❄**
+
+ **❄ cs:s usage guide ❄**
+
 ════════════════════════════════════════════════════════════
 
 aesthetic minimal guide for running and verifying the tool.
