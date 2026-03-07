@@ -2,6 +2,13 @@
 
 Please 🌟 if this is useful!
 
+NOTE: this project is a wip so most things dont work except the cfg file
+to use that
+1. go to C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\cfg
+2. paste cfg there and done!
+3. go to console and write "exec bhop"
+
+   
 ═══════════════════════════════════
 
 # 🔴 cs:s usage guide 🔴
