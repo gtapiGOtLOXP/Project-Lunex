@@ -1,5 +1,3 @@
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/9eb3962b-6b86-4db3-91f0-57c6ec0d522c" />
-
 pls 🌟 if this is useful!
 
 COUNTER STRIKE SOURCE/CSGO HACKS! 
@@ -18,6 +16,9 @@ CS:GO CHEATING wont get you vac banned but will get you server banned (as of rig
    1. WSL is recommended if you want it easiest
    2. through using the installer.py and reading the tutorial down below
 
+
+the installer.py tut will be in another file in this github repo
+
    ## WSL setup
 ```bash
 git clone https://github.com/gtapiGOtLOXP/Project-Lunex.git
@@ -30,3 +31,33 @@ git clone https://github.com/gtapiGOtLOXP/Project-Lunex.git
 
 note: maybe the csgo cheat is gonna be inside another folder so then youll need to
 use 'cd CSGODYNA' in the terminal to get inside the folder.
+
+           ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+           ║ [Credits - kxpz] ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[kxpz]║
+           ╠═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+           ║               *                                                                                                                                 ║
+           ║                                       .                             ,MMM8&&&.            *                       *                              ║
+           ║                         *                                          MMMM88&&&&&    .                                                             ║
+           ║                                                                   MMMM88&&&&&&&                                              *                  ║
+           ║                         .                      .            *     MMM88&&&&&&&&                                                     *           ║
+           ║           *                                                       MMM88&&&&&&&&                                                                 ║
+           ║                                   *                               'MMM88&&&&&&'                    *                                            ║
+           ║                                                                     'MMM8&&&'      *                             .              *               ║
+           ║        *                                                                                                                                        ║
+           ║                     *                                                $kxpz                                          *                           ║
+           ║                                                 *                   /\___/\                                                                     ║
+           ║                                                                     )    ~( .   .              '                              *                 ║
+           ║                         .         .                                =\~    /=                                                                    ║
+           ║          *                                                           ) ~ (                                                                      ║
+           ║                                   *             .                   /     \          .            *                *         *                  ║
+           ║              *                                                      ) ~   (                                                                     ║
+           ║                                                                    /     ~ \                                            *                       ║
+           ║                                                                    \~     ~/                                                                    ║
+           ║\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\║
+           ║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |  |))|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+           ║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |  |//|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+           ║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |  |((|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+           ║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |  |\)|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+           ║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+           ║  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ║
+           ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
