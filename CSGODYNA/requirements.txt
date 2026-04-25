@@ -1,0 +1,7 @@
+pymem
+keyboard
+PyQt5
+threaded
+requests
+mouse
+
