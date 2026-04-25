@@ -16,21 +16,17 @@ CS:GO CHEATING wont get you vac banned but will get you server banned (as of rig
    1. WSL is recommended if you want it easiest
    2. through using the installer.py and reading the tutorial down below
 
-
-the installer.py tut will be in another file in this github repo
+   the installer.py tut will be in ProjectX.txt
 
    ## WSL setup
 ```bash
-git clone https://github.com/gtapiGOtLOXP/Project-Lunex.git
+git clone https://github.com/gtapiGOtLOXP/CSGODYNA.git
 ```
 2. then start your game (prefered on an alt account ofcourse)
-3.cd Project-Lunex
-(you should see C:\Userexample\Project-Lunex on your terminal)
+3.cd CSGODYNA
+(you should see C:\Userexample\CSGODYNA on your terminal)
 4. Enter: pip install -r requirements.txt
 5. Start the cheat and enjoy!
-
-note: maybe the csgo cheat is gonna be inside another folder so then youll need to
-use 'cd CSGODYNA' in the terminal to get inside the folder.
 
            ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
            ║ [Credits - kxpz] ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█[kxpz]║
