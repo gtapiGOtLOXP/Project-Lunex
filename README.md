@@ -75,16 +75,16 @@
 
 pls 🌟 if this is useful!
 
-COUNTER STRIKE SOURCE/CSGO HACKS! 
+CS:S/CSGO/CS2 HACKS! 
 
 ## 25/4/2026 UPDATED:
    whats new?
-   changed the idea from CS:SCHEAT.exe to CS:GO python cheat (but this time its legit)
-   whats unchanged?
+   made a cs2 bhop cheat.
    the bhop.cfg is not changed and can still be used for CS:S
    
 # WARNING:
-CS:GO CHEATING wont get you vac banned but will get you server banned (as of right now)
+CS:GO CHEATING wont get you vac banned but will get you server banned
+CS2 Cheat is a autohotkey script so might/might not get u banned (just dont use in faceit or online games)
 
 # setup BHOP.cfg
    QNA: how can i use bhop.cfg in css?
@@ -98,12 +98,12 @@ CS:GO CHEATING wont get you vac banned but will get you server banned (as of rig
    exec bhop.cfg
    ```
 
-# setup CSGO
+# setup CSGO/CS2
    QNA: how can i use this in windows?
    1. WSL is recommended if you want it easiest
-   2. through using the installer.py and reading the tutorial down below
+   2. (CSGO) through using the installer.py and reading the tutorial down below
 
-   the installer.py tut will be in ProjectX.txt
+   the csgo/cs2 tut will be in ProjectX.txt
 
    ## WSL setup
 ```bash
